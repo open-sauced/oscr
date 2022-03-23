@@ -1,0 +1,20 @@
+{
+  "name": "oscr",
+  "version": "1.0.0",
+  "description": "cli to check your oscr score",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "open-source",
+    "open-sauced"
+  ],
+  "author": "Brian Douglas",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
